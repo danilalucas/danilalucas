@@ -1,5 +1,5 @@
 ## Olá eu sou a Daníla 👋
-Desenvolvedora Backend | PHP | Laravel | Filament | WordPress
+`Desenvolvedora Backend` | `PHP` | `Laravel` | `Filament` | `WordPress`
 
 - 🔭 Atualmente atuo como desenvolvedora backend
 - 🌱 Estudando e aprimorando conhecimentos em Laravel e Filament
@@ -10,29 +10,31 @@ Desenvolvedora Backend | PHP | Laravel | Filament | WordPress
 ## 
 ### Conheça alguns dos meus projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=currency-converter&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=task-manager&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=whitespace-ui&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=trafalgar&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=bikcraft&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=api-salao&theme=dracula)](https://github.com/danilalucas/manage-users)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=manage-users&theme=dracula)](https://github.com/danilalucas/manage-users)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=currency-converter&theme=tokyonight)](https://github.com/danilalucas/currency-converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=task-manager&theme=tokyonight)](https://github.com/danilalucas/task-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=whitespace-ui&theme=tokyonight)](https://danilalucas.github.io/whitespace-ui/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=trafalgar&theme=tokyonight)](https://danilalucas.github.io/trafalgar/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=bikcraft&theme=tokyonight)](https://github.com/danilalucas/bikcraft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=api-salao&theme=tokyonight)](https://github.com/danilalucas/api-salao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=manage-users&theme=tokyonight)](https://github.com/danilalucas/manage-users)
 
 ## 
 ### Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilalucas&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilalucas&langs_count=10&layout=compact&theme=tokyonight&custom_title=Estatísticas)](https://github.com/danilalucas)
 
 <div style="display: inline_block">
-  <img align="center" alt="danila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="danila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-  <img align="center" alt="danila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
-  <img align="center" alt="danila-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="danila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="danila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="danila-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="danila-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img align="left" alt="php" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="left" alt="laravel" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img align="left" alt="livewire" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" />
+  <img align="left" alt="vuejs" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img align="left" alt="javascript" height="40" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="html" height="40" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="css" height="40" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="sass" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
+
+<br>
 
 ##
 
