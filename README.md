@@ -19,7 +19,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danilalucas&repo=manage-users&theme=tokyonight)](https://github.com/danilalucas/manage-users)
 
 ## 
-### Linguagens
+### Linguagens e Tecnologias
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilalucas&langs_count=10&layout=compact&theme=tokyonight&custom_title=Estatísticas)](https://github.com/danilalucas)
 
@@ -32,6 +32,7 @@
   <img align="left" alt="html" height="40" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="css" height="40" width="40" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="sass" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img align="left" alt="sass" height="40" width="40" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 <br>
