@@ -28,9 +28,9 @@ class DanilaLucas extends Developer
     public function getEducation(): array
     {
         return [
-            'Técnica em Informática',
-            'Graduada em Jogos Digitais',
             'Pós-graduada em Engenharia de Software',
+            'Graduada em Jogos Digitais',
+            'Técnica em Informática',
         ];
     }
 
